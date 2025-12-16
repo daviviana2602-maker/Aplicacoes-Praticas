@@ -1,11 +1,3 @@
 np = int(input('digite qualquer número: '))
-print(np * 1)
-print(np * 2)
-print(np * 3)
-print(np * 4)
-print(np * 5)
-print(np * 6)
-print(np * 7)
-print(np * 8)
-print(np * 9)
-print(np * 10)
+for i in range(1, 11):
+    print(np * i)
