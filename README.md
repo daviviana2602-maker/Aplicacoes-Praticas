@@ -16,3 +16,5 @@ Conteúdos:
 *Formatação de saída (f-strings)
 
 *Código comentado e organizado
+
+*Uso de Bibliotecas
